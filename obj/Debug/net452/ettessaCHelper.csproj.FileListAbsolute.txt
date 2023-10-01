@@ -1,0 +1,9 @@
+/home/grog/.local/share/Steam/steamapps/common/Celeste/Mods/ettessaCHelper/obj/Debug/net452/ettessaCHelper.csproj.AssemblyReference.cache
+/home/grog/.local/share/Steam/steamapps/common/Celeste/Mods/ettessaCHelper/obj/Debug/net452/ettessaCHelper.GeneratedMSBuildEditorConfig.editorconfig
+/home/grog/.local/share/Steam/steamapps/common/Celeste/Mods/ettessaCHelper/obj/Debug/net452/ettessaCHelper.AssemblyInfoInputs.cache
+/home/grog/.local/share/Steam/steamapps/common/Celeste/Mods/ettessaCHelper/obj/Debug/net452/ettessaCHelper.AssemblyInfo.cs
+/home/grog/.local/share/Steam/steamapps/common/Celeste/Mods/ettessaCHelper/obj/Debug/net452/ettessaCHelper.csproj.CoreCompileInputs.cache
+/home/grog/.local/share/Steam/steamapps/common/Celeste/Mods/ettessaCHelper/bin/Debug/net452/ettessaCHelper.dll
+/home/grog/.local/share/Steam/steamapps/common/Celeste/Mods/ettessaCHelper/bin/Debug/net452/ettessaCHelper.pdb
+/home/grog/.local/share/Steam/steamapps/common/Celeste/Mods/ettessaCHelper/obj/Debug/net452/ettessaCHelper.dll
+/home/grog/.local/share/Steam/steamapps/common/Celeste/Mods/ettessaCHelper/obj/Debug/net452/ettessaCHelper.pdb

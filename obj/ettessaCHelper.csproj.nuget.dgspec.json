@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/grog/.local/share/Steam/steamapps/common/Celeste/Mods/ettessaCHelper/ettessaCHelper.csproj": {}
+  },
+  "projects": {
+    "/home/grog/.local/share/Steam/steamapps/common/Celeste/Mods/ettessaCHelper/ettessaCHelper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/grog/.local/share/Steam/steamapps/common/Celeste/Mods/ettessaCHelper/ettessaCHelper.csproj",
+        "projectName": "ettessaCHelper",
+        "projectPath": "/home/grog/.local/share/Steam/steamapps/common/Celeste/Mods/ettessaCHelper/ettessaCHelper.csproj",
+        "packagesPath": "/home/grog/.nuget/packages/",
+        "outputPath": "/home/grog/.local/share/Steam/steamapps/common/Celeste/Mods/ettessaCHelper/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/grog/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "targetAlias": "net452",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "targetAlias": "net452",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )",
+              "autoReferenced": true
+            },
+            "MonoMod.RuntimeDetour": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[22.1.4.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.414/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
